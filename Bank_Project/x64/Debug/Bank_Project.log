@@ -1,0 +1,8 @@
+﻿  AdminManager.cpp
+  App.cpp
+  ClientManager.cpp
+  EmployeeManager.cpp
+  screens.cpp
+  Generating Code...
+D:\New folder (2)\Route\Bank_Project\Bank_Project\AdminManager.h(95,1): warning C4715: 'AdminManager::login': not all control paths return a value
+  Bank_Project.vcxproj -> D:\New folder (2)\Route\Bank_Project\x64\Debug\Bank_Project.exe
